@@ -1,4 +1,4 @@
-# Aula 08-11 - App Conversão de moeda
+# Aula 25-11 - App Conversão de moeda
 
 ## Avaliação
 
