@@ -13,4 +13,12 @@
 
 ## Descritivo do Aluno:
 
--> DESCREVA AQUI <-
+-> Meu entendimento relacionado  a atividade baseia-se na compreensão referente aos pontos a seguir: 
+-não foi preciso criar outra "<div></div>" para ser realizada a inserção dos novos elementos presentes 
+na atividade. 
+-o ngModel que refrencia o modelo escolhido houve permanencia no "opcaoEscolhida" que refere-se a opção
+escolhida pelo usuário.
+-o "type" que referencia ao que vai ser apresentado dentro do "input", onde utilizei o "type="radio" ".
+-o "name" que referencia o nome que aquele input irá receber, onde utilizei o nome "moeda".
+-o "value" que nos entrega a diferença entre a primeira e segunda moeda selecionada.
+-o <span></span> que é utilizado para referenciar para o usuáro todo o código descrito acima. <-
